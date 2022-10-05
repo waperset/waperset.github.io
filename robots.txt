@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://waperset.github.io/sitemap.xml
